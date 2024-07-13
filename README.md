@@ -1,4 +1,4 @@
-# Hashing Algorithms And Coding up a FIM (FILE INTEGRITY MONITORING)
+# Hashing Algorithms And Coding up a FIM (FILE INTEGRITY MONITOR)
 
 
 <h2>Description</h2>
