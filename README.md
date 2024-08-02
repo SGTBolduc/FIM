@@ -2,7 +2,10 @@
 
 
 <h2>Description</h2>
-I am exploring hashing algorithms and learning about file integrity monitoring to better understand integrity in cybersecurity. As a hands-on project, I am coding a basic File Integrity Monitor. This is my first time coding, although I used ChatGPT to help identify errors I encountered, for instance the FIM kept looping false positives due to improper brackets. I'm excited to continue learning more about coding, particularly with Python, due to its versatility. As I develop my skills in cybersecurity, I'm eager to explore how coding can enhance my capabilities in this field.
+As part of my journey into cybersecurity, I am exploring hashing algorithms and learning about file integrity monitoring to understand the importance of data integrity. For a hands-on project, I am coding a basic File Integrity Monitor (FIM). This is my first experience with coding, and I have been using ChatGPT to help identify and resolve errors. For instance, I encountered an issue where the FIM kept generating false positives due to improper use of brackets.
+<br />
+<br />
+I'm particularly excited about learning Python due to its versatility and wide range of applications in cybersecurity. As I continue to develop my coding skills, I'm eager to discover how programming can enhance my capabilities in identifying, monitoring, and mitigating security threats. This project has been a valuable introduction to practical cybersecurity concepts and the role of coding in building effective security tools..
 
 
 
